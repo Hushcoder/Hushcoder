@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm passionate about  software development, Machin
 
 About Me
 💻  Versed with Languages Like Python, C++ , C , java.
-🎓 2nd year student pursuing Bachelors in Artificial Inteeligence and Machine Learning. 
+🎓 2nd year student pursuing Bachelors in Artificial Intelligence and Machine Learning. 
 🌱 At present exploring Backend Development in Django , Computer vision , NLP . 
 📫 You can reach me at chauhanvi360@gmail.com  .
 
