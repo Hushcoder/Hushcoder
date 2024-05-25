@@ -1,5 +1,5 @@
 Hello, I'm Vishal Chauhan! 👋
-Welcome to my GitHub profile! I'm passionate about  software development, Machine Learning, Data Science, Computer Vision, NLP . With a blend of creativity and technical expertise, I love building solutions that make a positive impact.
+Welcome to my profile! I'm passionate  and entusiastis about  software development, Machine Learning, Data Science, Computer Vision, NLP . With a blend of creativity and technical expertise, I love building solutions that make a positive impact.
 
 About Me
 💻  Versed with Languages Like Python, C++ , C , java.
