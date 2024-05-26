@@ -2,9 +2,9 @@ Hello, I'm Vishal Chauhan! 👋
 Welcome to my profile! I'm passionate  and entusiastis about  software development, Machine Learning, Data Science, Computer Vision, NLP . With a blend of creativity and technical expertise, I love building solutions that make a positive impact.
 
 About Me
-💻  Versed with Languages Like Python, C++ , C , java.
+💻  Versed with Languages Like Python, C++ , C ,java and Machine Learning , Computer vision , NLP , HTML,CSS,Javascript .
 🎓 2nd year student pursuing Bachelors in Artificial Intelligence and Machine Learning. 
-🌱 At present exploring Backend Development in Django , Computer vision , NLP . 
+🌱 At present exploring Deep Learning, Backend Development in Django. 
 📫 You can reach me at chauhanvi360@gmail.com  .
 
 Let's Connect
