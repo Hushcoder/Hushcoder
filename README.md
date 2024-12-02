@@ -1,7 +1,8 @@
 Leetcode Info 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Vishal?theme=dark)
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Vishal?theme=dark" alt="LeetCode Stats">
+</div>
 
 :electron: Current Stats :electron:
 
