@@ -16,7 +16,7 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushcoder&layout=compact&theme=transparent&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/Hushcoder/github-readme-stats">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=Hushcoder&show_icons=true&theme=transparent" />
+  <img height=100 align="right" src="https://github-readme-stats.vercel.app/api?username=Hushcoder&show_icons=true&theme=transparent&card_width=220" />
 </a>
 
 
