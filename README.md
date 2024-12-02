@@ -1,5 +1,3 @@
-Leetcode Info 
-
 <div align="center">
   <hr>
   <p>Leetcode Info</p>
@@ -9,7 +7,7 @@ Leetcode Info
   
 <div align="center">
   <hr>
-  <p>:electron: Current Stats :electron:</p>
+  <p align="center">:electron: Current Stats :electron:</p>
   <hr>
 <div>
 
