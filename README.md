@@ -5,9 +5,8 @@ Leetcode Info
 
 :electron: Current Stats :electron:
 
-<a href="[https://github.com/Hushcoder/streak](https://git.io/streak-stats)">
-   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Hushcoder&theme=dark" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hushcoder&theme=dark)](https://git.io/streak-stats)
+
 <a href="https://github.com/Hushcoder/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hushcoder&show_icons=true&theme=transparent" />
 </a>
