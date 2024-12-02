@@ -2,14 +2,14 @@ Leetcode Info
 
 <div align="center">
   <hr>
-  <h2>Leetcode Info</h2>
+  <p>Leetcode Info</p>
   <hr>
   <img src="https://leetcard.jacoblin.cool/Vishal?theme=dark" alt="LeetCode Stats">
 </div
   
 <div align="center">
   <hr>
-  <h2>:electron: Current Stats :electron:</h2>
+  <p>:electron: Current Stats :electron:</p>
   <hr>
 <div>
 
