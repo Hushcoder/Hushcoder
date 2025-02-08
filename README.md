@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
   <hr>
   <p align="center">:electron: Current Stats :electron:</p>
   <hr>
