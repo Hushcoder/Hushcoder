@@ -2,7 +2,7 @@
   <hr>
   <p>Leetcode Info</p>
   <hr>
-  <img src="https://leetcard.jacoblin.cool/Vishal?theme=dark" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/vis_hal_?theme=dark" alt="LeetCode Stats">
 </div
   
 <div align="center">
