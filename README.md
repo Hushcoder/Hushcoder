@@ -1,11 +1,4 @@
-<div align="center">
-  <hr>
-  <p>Leetcode Info</p>
-  <hr>
-  <img src="https://leetcard.jacoblin.cool/vis_hal_?theme=dark" alt="LeetCode Stats">
-</div
-  
-<div align="center">
+  <div align="center">
   <hr>
   <p align="center">:electron: Current Stats :electron:</p>
   <hr>
