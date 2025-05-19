@@ -21,8 +21,8 @@
 
 ## 🌐 Online Profiles
 
-- 🧠 [HackerRank Profile](https://www.hackerrank.com/profile/chauhanvi360))
-- 📘 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/chauhani7zd/))
+- 🧠 [HackerRank Profile](https://www.hackerrank.com/profile/chauhanvi360)
+- 📘 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/chauhani7zd/)
 
 
 
