@@ -19,6 +19,12 @@
   </a>
 </div>
 
+## 🌐 Online Profiles
+
+- 🧠 [HackerRank Profile](https://www.hackerrank.com/your_username)
+- 📘 [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/your_username/profile)
+
+
 
 
 
